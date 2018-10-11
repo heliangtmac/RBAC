@@ -62,5 +62,4 @@ public class Permission {
 	public void setChildren(List<Permission> children) {
 		this.children = children;
 	}
-	
 }
